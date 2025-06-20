@@ -1,0 +1,90 @@
+{
+  "personal": {
+    "name": "Abhishek Jha",
+    "role": "Full Stack Developer",
+    "description": "I build powerful, scalable, and accessible digital products with modern web technologies.",
+    "avatar": "/abhi.png",
+    "location": "West Bengal, India",
+    "email": "iamabhishek1310@gmail.com",
+    "socials": [
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/iCoderabhishek"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/in"
+      },
+      {
+        "platform": "Twitter",
+        "url": "https://twitter.com/0bhishek"
+      }
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I’m a self-driven full stack developer who enjoys solving real-world problems through clean architecture, scalable APIs, and delightful UIs. Whether it's building a SaaS tool, a Chrome extension, or a design system starter, I always push for production-grade quality.",
+    "resume": "/resume.pdf"
+  },
+  "projects": [
+    {
+      "title": "Undowntime",
+      "description": "A cold-start prevention and uptime monitoring service for serverless and hobby apps. Features include custom domain verification, ping scheduler, alerting, and Razorpay integration.",
+      "tags": ["Next.js", "Prisma", "Firebase", "Razorpay", "CRON"],
+      "image": "https://placehold.co/600x400?text=Undowntime",
+      "url": "https://undowntime.vercel.app",
+      "github": "https://github.com/iCoderabhishek/undowntime"
+    },
+    {
+      "title": "React Starter Plus",
+      "description": "A powerful CLI + NPM toolkit to scaffold production-ready React apps with TypeScript, Tailwind, ESLint, Zustand, and more — all with custom presets.",
+      "tags": ["React", "TypeScript", "CLI", "NPM", "TailwindCSS"],
+      "image": "https://placehold.co/600x400?text=React+Starter+Plus",
+      "url": "https://github.com/iCoderabhishek/npm-package",
+      "github": "https://github.com/iCoderabhishek/react-starter-plus"
+    },
+    {
+      "title": "WTC (What's The Context?)",
+      "description": "A Chrome extension to get historical, political, or technical context for selected text on any site. Integrates with OpenAI/Gemini and supports saving locally.",
+      "tags": ["Chrome Extension", "OpenAI", "Gemini", "JavaScript"],
+      "image": "https://placehold.co/600x400?text=WTC+Extension",
+      "url": "https://github.com/iCoderabhishek/wtc-context",
+      "github": "https://github.com/iCoderabhishek/wtc-context"
+    },
+    {
+      "title": "NextStepper",
+      "description": "A Chrome extension to get historical, political, or technical context for selected text on any site. Integrates with OpenAI/Gemini and supports saving locally.",
+      "tags": ["Chrome Extension", "OpenAI", "Gemini", "JavaScript"],
+      "image": "https://placehold.co/600x400?text=WTC+Extension",
+      "url": "https://github.com/iCoderabhishek/wtc-context",
+      "github": "https://github.com/iCoderabhishek/NextStepper"
+    }
+  ],
+  "skills": [
+    { "name": "React" },
+    { "name": "Next.js" },
+    { "name": "Node.js" },
+    { "name": "TypeScript" },
+    { "name": "TailwindCSS" },
+    { "name": "Prisma" },
+    { "name": "Firebase" },
+    { "name": "MongoDB" },
+    { "name": "Zustand" },
+    { "name": "Git" },
+    { "name": "Figma" },
+    { "name": "Express" }
+  ],
+  "experience": [
+    {
+      "company": "SIT Siliguri Hackathon",
+      "role": "Full Stack Developer",
+      "startDate": "Feb 2025",
+      "endDate": "Feb 2025",
+      "responsibilities": [
+        "Developed and maintained a health tech web platform with real-time chat and video features using WebSockets.",
+        "Integrated Redux Toolkit for efficient state handling and improved API performance.",
+        "Refined the user interface with TailwindCSS and improved accessibility."
+      ]
+    }
+  ]
+}
